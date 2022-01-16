@@ -14,32 +14,36 @@ My research explores the relation between gendered political institutions and re
 
 You can find my CV here.
 
-## Publications
+## Peer-Reviewed Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Vallejo, Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. https://doi.org/10.1086/717083. 
 
-## Typography
+2. Vallejo, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. doi:10.1177/1866802X211058742.  
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+3. Vallejo, Sebastián (with Joan C. Timoneda). (2021). "Will I die of coronavirus? Google Trends data reveal that politics determine virus fears." *Plos one*, 16(10), e0258189. https://doi.org/10.1371/journal.pone.0258189
 
-Here is a table
+4. Vallejo, Sebasti\'an (with Ernesto Calvo and Paula Clerici). (2021). "Ciencia y política en tiempos del covid-19." *Política y gobierno*, 28(2). http://politicaygobierno.cide.edu/index.php/pyg/article/view/1542
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+5. Vallejo, Sebastián (with Joan C. Timoneda). (2021). "How do shocks realign interest group lobbying in congress? Evidence from ecuador." *The Journal of Legislative Studies*, 1-39. https://doi.org/10.1080/13572334.2021.1924434
 
-Here is a horizontal rule
+6. Vallejo, Sebastián. (2021). "By invitation only: on why do politicians bring interest groups into committees." *The Journal of Legislative Studies*, 1-38. https://doi.org/10.1080/13572334.2021.1905327
 
----
+7. Vallejo, Sebastián (with Monika McDermott and Douglas Schwartz). (2015). "Talking the talk but not walking the walk: Public reactions to hypocrisy in political scandal." *American Politics Research*, 43(6), 952-974. https://doi.org/10.1177/1532673X15577830
 
-Here is a blockquote
+## Book Chapters
 
-> To a great mind, nothing is little
+Vallejo, Sebastián (with Analía Gómez Vidal). 2021. ["Ecuador: Individual Incentives and the Gendered Path to Power"](https://books.google.com.mx/books?id=Oi5CEAAAQBAJ&pg=PA260&lpg=PA260&dq=Ecuador:+Individual+Incentives+and+the+Gendered+Path+to+Power&source=bl&ots=NiaGM0Z1Z8&sig=ACfU3U1ilva5tyvciXzZM44w81X8pNK1sw&hl=en&sa=X&ved=2ahUKEwjHne6Ogt3zAhU3k2oFHTKEBSoQ6AF6BAgMEAM#v=onepage&q=Ecuador\%3A\%20Individual\%20Incentives\%20and\%20the\%20Gendered\%20Path\%20to\%20Power&f=false) in: Back, Hanna, Marc Debus and Jorge M. Fernandes (*Eds.*). *The Politics of Legislative Debates Around the World.* Oxford University Press. 
 
-## References
+## Books
+Vallejo, Sebastián. 2018.[Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. 
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Working Papers
+
+Vallejo, Sebastián (with Eduardo Alemán and Juan Pablo Micozzi). "Congressional Committees, Electoral Connections, and Legislative Speech." (Under Review). 
+
+Vallejo, Sebastián. ["Rage within the Machine: Activation of Racist Content in Social Media."](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf) iLCSS Working Paper \#9. (Revise and Resubmit) Latin American Politics and Society. 
+
+Vallejo, Sebastián (with Christopher Currin and Ali Khaledi-Nasab). ["Depolarization of echo chambers by random dynamical nudge."](https://arxiv.org/pdf/2101.04079.pdf) arXiv preprint arXiv:2101.04079. (Revise and Resubmit) Scientific Reports. 
+
+Vallejo, Sebastián. "Performance of Maximum Likelihood Fixed Effects Estimation in Panel Data with Sample Selection Bias." (Under Review).
+
