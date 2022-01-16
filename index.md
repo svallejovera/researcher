@@ -35,7 +35,7 @@ You can find my CV here.
 Vallejo, Sebastián (with Analía Gómez Vidal). 2021. ["Ecuador: Individual Incentives and the Gendered Path to Power"](https://books.google.com.mx/books?id=Oi5CEAAAQBAJ&pg=PA260&lpg=PA260&dq=Ecuador:+Individual+Incentives+and+the+Gendered+Path+to+Power&source=bl&ots=NiaGM0Z1Z8&sig=ACfU3U1ilva5tyvciXzZM44w81X8pNK1sw&hl=en&sa=X&ved=2ahUKEwjHne6Ogt3zAhU3k2oFHTKEBSoQ6AF6BAgMEAM#v=onepage&q=Ecuador\%3A\%20Individual\%20Incentives\%20and\%20the\%20Gendered\%20Path\%20to\%20Power&f=false) in: Back, Hanna, Marc Debus and Jorge M. Fernandes (*Eds.*). *The Politics of Legislative Debates Around the World.* Oxford University Press. 
 
 ## Books
-Vallejo, Sebastián. 2018.[Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. 
+Vallejo, Sebastián. 2018. [Angostura, 30-S y la (re)militarización de la seguridad interna en Ecuador](http://hdl.handle.net/10644/6551). Corporación Editora Nacional – Ecuador: 978-9978-84-997-2. 
 
 ## Working Papers
 
