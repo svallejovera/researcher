@@ -18,7 +18,7 @@ You can find my CV here.
 
 1. Vallejo, Sebastián (with Analía Gómez Vidal). *Forthcoming*. "The Politics of Interruptions: Gendered Disruptions of Legislative Speeches." *Journal of Politics*. https://doi.org/10.1086/717083. 
 
-2. Vallejo, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. doi:10.1177/1866802X211058742.  
+2. Vallejo, Sebastián (with Angélica Abad, Raúl Aldaz, and Diana Dávila Gordillo). (2021). "Believe in me: Parties’ Strategies During a Pandemic, Evidence from Ecuador." *Journal of Politics in Latin America*, 13(3):419-441. https://doi:10.1177/1866802X211058742.  
 
 3. Vallejo, Sebastián (with Joan C. Timoneda). (2021). "Will I die of coronavirus? Google Trends data reveal that politics determine virus fears." *Plos one*, 16(10), e0258189. https://doi.org/10.1371/journal.pone.0258189
 
