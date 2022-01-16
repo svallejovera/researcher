@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [svallejovera[at]tec[dot]mx](mailto:svallejovera@tec.mx)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Av Carlos Lazo 100, Santa Fe, La Loma
 >
-> London
+> Álvaro Obregón, 01389 Ciudad de México
 >
-> United Kingdom
+> México
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](https://github.com/svallejovera)
+2. [Twitter](https://twitter.com/svallejovera)
+3. [Google Scholar](https://scholar.google.com/citations?user=1TOKuVkAAAAJ&hl=en)
+4. [ORCID](https://orcid.org/0000-0002-5848-7400)
