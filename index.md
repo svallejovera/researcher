@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Welcome! I am an Assistant Professor at the School of Government at the Instituto Tecnológico y de Estudios Superiores de Monterrey, México. I am also the director of the interdisciplinary Laboratory of Computational Social Science - México ([iLCSS](https://ilcss.umd.edu/). Previously, I was a Post-Doctoral Fellow at Department of Political Science at the University of Houston. I earned my Ph.D. in Political Science from the University of Maryland, College Park.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research explores the relation between gendered political institutions and representation, and racial identity and racism in Latin America. I am particularly interested in the gendered barriers in political institutions, and the strategic reaction of political actors when encountering these barriers. My methodological work applies novel Natural Language Processing (NLP) to a wide variety of text data, from legislative speeches to tweets, to answer substantive questions about gender, racism, and politics.
+
+You can find my CV here.
 
 ## Publications
 
